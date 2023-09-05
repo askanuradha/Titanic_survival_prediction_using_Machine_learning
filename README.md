@@ -1,5 +1,6 @@
-# Titanic_survival_prediction_using_Machine_learning
-![Image Alt Text](RMS_Titanic_3.jpg)
+# Titanic survival prediction using Machine learning
+<div align="center"><img src="https://github.com/askanuradha/Titanic_survival_prediction_using_Machine_learning/blob/main/RMS_Titanic_3.jpg" alt="Titanic ship" width="500"></div>
+
 The sinking of the Titanic is one of the key sad tragedies in history and it took place on April 15th, 1912. The numbers of survivors were low due to the lack of lifeboats for all passengers. We will analyze what sorts of people were likely to survive this tragedy with the power of machine learning.
 ## Project Overview
 The Titanic Survival Prediction project is a machine learning project aimed at predicting whether a passenger on the Titanic would have survived or not based on various features such as age, gender, class, and more. This classic dataset serves as an excellent introduction to data preprocessing, feature engineering, and predictive modeling techniques.
